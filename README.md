@@ -11,7 +11,7 @@ I am a developer with experience in Python, SQL, and machine learning. I have wo
 * ✉️  You can contact me at [jonotassia@gmail.com](mailto:jonotassia@gmail.com)
 * 🚀  I'm currently working on [a route opimisation application for home-visiting clinicians](https://github.com/jonotassia/route-optimisation)
 * 🧠  I'm learning TensorFlow
-* 🤝  I'm open to collaborating on Any projects focused on machine learning or route optimisation/mapping
+* 🤝  I'm open to collaborating on any projects focused on machine learning or route optimisation/mapping
 
 ### Skills
 
