@@ -4,14 +4,14 @@ Hi 👋 My name is Jono Tassia
 Python Developer
 ----------------
 
-I am a developer with experience in Python, SQL, and machine learning. I have worked in the software industry for 7 years as an IT project/product manager and have used my experience working directly with end-users to build safe, user-friendly software.
+I am a developer with experience in Python and C++ (particularly backend), SQL, and machine learning. I have worked in the software industry for 7 years as an IT project/product manager and have used my experience working directly with end-users to build safe, user-friendly software.
 
 * 🌍  I'm based in Canberra, Australia
 * 🖥️  See my portfolio at [My Portfolio](https://jonotassia.pythonanywhere.com/)
 * ✉️  You can contact me at [jonotassia@gmail.com](mailto:jonotassia@gmail.com)
 * 🚀  I'm currently working on [a route opimisation application for home-visiting clinicians](https://github.com/jonotassia/route-optimisation)
-* 🧠  I'm learning TensorFlow
-* 🤝  I'm open to collaborating on any projects focused on machine learning or route optimisation/mapping
+* 🧠  I'm learning C++ and TensorFlow
+* 🤝  I'm open to collaborating on any projects requiring backend development.
 
 ### Skills
 
@@ -44,3 +44,4 @@ I am a developer with experience in Python, SQL, and machine learning. I have wo
 <a href="https://github.com/jonotassia/web_portfoliov2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jonotassia&repo=web_portfoliov2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> <br />
 
 <div width="100%" align="center"><a href="https://github.com/jonotassia/dog-breed-classifier-tf" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jonotassia&repo=dog-breed-classifier-tf&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/jonotassia/playlist-randomizer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jonotassia&repo=playlist-randomizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> <br />
