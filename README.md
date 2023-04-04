@@ -1,7 +1,7 @@
 Hi 👋 My name is Jono Tassia
 ============================
 
-Backend Developer
+Software Engineer
 ----------------
 
 I am a developer with experience in Python and C++ (particularly backend), SQL, and machine learning. I have worked in the software industry for 7 years as an IT project/product manager and have used my experience working directly with end-users to build safe, user-friendly software.
