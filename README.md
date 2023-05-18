@@ -6,10 +6,10 @@ Software Engineer
 
 I am a developer with experience in Python and C++ (particularly backend), SQL, and machine learning. I have worked in the software industry for 7 years as an IT project/product manager and have used my experience working directly with end-users to build safe, user-friendly software.
 
-* 🌍  I'm based in Canberra, Australia
+* 🌍  I'm based in Edinburgh, Scotland
 * 🖥️  See my portfolio at [My Portfolio](https://jonotassia.pythonanywhere.com/)
 * ✉️  You can contact me at [jonotassia@gmail.com](mailto:jonotassia@gmail.com)
-* 🚀  I'm currently working on [a route opimisation application for home-visiting clinicians](https://github.com/jonotassia/route-optimisation)
+* 🚀  I'm currently working on contributing to open-source projects such as PyGame and Ivy
 * 🧠  I'm learning C++ and TensorFlow
 * 🤝  I'm open to collaborating on any projects requiring backend development.
 
